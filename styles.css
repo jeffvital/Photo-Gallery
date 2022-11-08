@@ -22,3 +22,7 @@ body {
     padding: 32px;
     border-bottom: 4px solid #fdb347;
 }
+
+.gallery {
+    display: flex;
+}
